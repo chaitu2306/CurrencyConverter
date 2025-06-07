@@ -1,0 +1,12 @@
+# Ignore compiled files
+*.class
+
+# Ignore all jar files
+*.jar
+
+# Ignore Maven target folder
+target/
+
+# Ignore IDE folders
+.idea/
+.vscode/
